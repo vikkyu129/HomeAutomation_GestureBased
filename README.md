@@ -16,5 +16,11 @@ COMPONENTS REQUIRED
 6.	LED Bulb
 7.	Fan
 
+Transmitter Module:
+![Transmitter](tx.jpg)
+
+Reciever Module:
+![Reciever](rx.jpg)
+
 
 
